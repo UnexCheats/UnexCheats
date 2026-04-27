@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="unyxGlow" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B1D1F"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="unyxStroke" x1="18" y1="14" x2="44" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F5F3"/>
+      <stop offset="1" stop-color="#CDD3C2"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="url(#unyxGlow)"/>
+  <rect x="4.75" y="4.75" width="54.5" height="54.5" rx="17.25" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+  <path d="M18 16.5H25V35.5C25 40.1667 27.3333 42.5 32 42.5C36.6667 42.5 39 40.1667 39 35.5V16.5H46V35.9C46 41.1 44.75 44.9833 42.25 47.55C39.75 50.1167 36.3333 51.4 32 51.4C27.6667 51.4 24.25 50.1167 21.75 47.55C19.25 44.9833 18 41.1 18 35.9V16.5Z" fill="url(#unyxStroke)"/>
+  <path d="M44.5 13L49.5 18L46 21.5L41 16.5L44.5 13Z" fill="#C9F36B"/>
+</svg>
